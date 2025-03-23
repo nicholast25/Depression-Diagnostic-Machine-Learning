@@ -5,8 +5,7 @@ This project focuses on analyzing and comparing the performance of Support Vecto
 
 ## Key Objectives
 1. Compare the performance of SVM, Random Forest, and XGBoost using F1-Score.
-2. Use Non-Parametric Statistical Testing to assess the association significance between depression status and each considered feature.
-3. Implement several techniques and intepreted the results through feature importances and SHAP Analysis.
+2. Implement several statistical and model techniques and intepret the results through feature importances and SHAP Analysis.
 
 ## Techniques 
 1. Data Preprocessing: Cleaned and transformed individual data for better model training.
