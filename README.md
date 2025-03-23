@@ -4,7 +4,7 @@
 This project focuses on analyzing and comparing the performance of Support Vector Machine (SVM), Random Forest, and XGBoost in diagnosing depression based on individual data. As the team leader, I led the implementation of machine learning techniques, ensuring a robust evaluation process that incorporates Non-Parametric Statistical Testing, Feature Engineering, Resampling, and Hyperparameter Tuning. This project was conducted as part of the Computational Intelligence coursework and received a grade of 97/100.
 
 ## Key Objectives
-1. Compare the performance of SVM, Random Forest, and XGBoost using various evaluation metrics.
+1. Compare the performance of SVM, Random Forest, and XGBoost using F1-Score.
 2. Use Non-Parametric Statistical Testing to assess the significance of the features.
 3. Implement several techniques and intepreted the results through feature importances and SHAP Analysis.
 
