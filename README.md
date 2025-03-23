@@ -8,7 +8,7 @@ This project focuses on analyzing and comparing the performance of Support Vecto
 2. Use Non-Parametric Statistical Testing to assess the significance of the features.
 3. Implement several techniques and intepreted the results through feature importances and SHAP Analysis.
 
-Techniques 
+## Techniques 
 1. Data Preprocessing: Cleaned and transformed individual data for better model training.
 2. Exploratory Data Analysis: Visualized each feature based on depression status, including statistical analysis to confirm significant performance differences.
 4. Feature Engineering: Reduced the dataframe dimension through PCA.
